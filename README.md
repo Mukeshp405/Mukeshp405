@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Skillnuts<br>👯‍♀️ I'm looking to collaborate on Open Source Web Development and Python based projects.<br>🤝 I'm looking for help with Advanced Machine Learning, AI projects, and scalable system design.<br>🌱 I'm currently learning Machine Learning, Deep Learning and Generative AI.<br>💬 Ask me about, I'm Full Stack Python Developer and AI Agent<br>⚡ Fun fact, I enjoy building automation tools with Python
+🔭 I'm currently working on Skillnuts<br>👯‍♀️ I'm looking to collaborate on Open Source Web Development and Python based projects.<br>🤝 I'm looking for help with Advanced Machine Learning, AI projects, and scalable system design.<br>🌱 I'm currently learning Deep Learning and Generative AI.<br>💬 Ask me about, I'm Full Stack Python Developer and AI Agent<br>⚡ Fun fact, I enjoy building automation tools with Python
 
 
 ## 🌐 Socials:
